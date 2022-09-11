@@ -1,0 +1,6 @@
+ Consumir el servicio web del BCCR
+	IDE: Apache Netbeans
+	Serialización de los datos XML a texto
+	Ejemplo(DATO DEL DÍA):
+		Tipo de compra (fecha): 532.45
+		Tipo de venta (fecha): 635.4
